@@ -1,0 +1,7 @@
+C:\Users\429281-15\Desktop\tcp-serv\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe.config
+C:\Users\429281-15\Desktop\tcp-serv\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe
+C:\Users\429281-15\Desktop\tcp-serv\ClientTCP\ClientTCP\bin\Debug\ClientTCP.pdb
+C:\Users\429281-15\Desktop\tcp-serv\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.CoreCompileInputs.cache
+C:\Users\429281-15\Desktop\tcp-serv\ClientTCP\ClientTCP\obj\Debug\ClientTCP.exe
+C:\Users\429281-15\Desktop\tcp-serv\ClientTCP\ClientTCP\obj\Debug\ClientTCP.pdb
+C:\Users\429281-15\Desktop\tcp-serv\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csprojAssemblyReference.cache
